@@ -50,10 +50,10 @@ The original dataset has been sourced from Kaggle Dataset and can be found here:
 
 ## Statistical Analysis 
 <ul>
-<li><a href="#wrangling">Data Wrangling</a></li>
-<li><a href="#eda">Exploratory Data Analysis</a></li>
-<li><a href="#conclusions">Visualisations</a></li>
-<li><a href="#conclusions">Conclusions</a></li>
+<li>Data Wrangling</li>
+<li>Exploratory Data Analysis</li>
+<li>Visualisations</li>
+<li>Conclusions</li>
 </ul>
 
 ## Tools
