@@ -11,8 +11,6 @@ Using descriptive statistics the following questions should be answered:
 
 **Note:** Predictive analytics is out of scope of this project.
 
-This project was done as part of the Udacity's Data Analyst Nanodegree certification.
-
 For details see the attached Jupyter Notebook (.ipynb file) or HTML file.
 
 ## Dataset 
